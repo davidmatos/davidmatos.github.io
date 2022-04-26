@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://davidmatos.github.io/aboutme/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://davidmatos.github.io/aboutme/</loc>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/contact/</loc>
+<lastmod>2020-01-29T14:48:30+00:00</lastmod>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/education/</loc>
+<lastmod>2020-01-29T22:40:12+00:00</lastmod>
+<image:image>
+<image:loc>https://davidmatos.github.io/aboutme/media/posts/5/IST_Logo.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://davidmatos.github.io/aboutme/media/posts/5/Unknown</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://davidmatos.github.io/aboutme/media/posts/5/Unknown</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/page/2/</loc>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/projects/</loc>
+<lastmod>2021-01-22T20:58:13+00:00</lastmod>
+<image:image>
+<image:loc>https://davidmatos.github.io/aboutme/media/posts/2/logo.png</image:loc>
+<image:title><![CDATA[SafeCloud logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://davidmatos.github.io/aboutme/media/posts/2/seal_logo.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/publications/</loc>
+<lastmod>2022-04-26T16:54:25+01:00</lastmod>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/publications-2/</loc>
+<lastmod>2021-02-19T18:13:53+00:00</lastmod>
+</url>
+<url>
+<loc>https://davidmatos.github.io/aboutme/teaching/</loc>
+<lastmod>2021-01-22T20:50:21+00:00</lastmod>
+</url>
+</urlset>
