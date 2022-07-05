@@ -3,12 +3,42 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2022-07-05T14:16:11+01:00</updated>
+    <updated>2022-07-05T14:31:05+01:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
     <id>https://davidmatos.github.io</id>
 
+    <entry>
+        <title>Students</title>
+        <author>
+            <name>David R. Matos</name>
+        </author>
+        <link href="https://davidmatos.github.io/students/"/>
+        <id>https://davidmatos.github.io/students/</id>
+
+        <updated>2022-07-05T14:31:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    PhD Diogo Vaz - Co-advisors: Miguel Pupo Correia, Miguel L. Pardal MSc Francisco Faria - Co-advisor: Miguel L. Pardal Unchain my Block: a recovery system for blockchain applications Bruno Gomes - Co-advisor: Miguel L. Pardal Show me the Crypto: a blockchain crowdfunding platform João Soares&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2>PhD</h2>
+<ul>
+<li><a href="https://diogolvaz.github.io" target="_blank" rel="noopener noreferrer">Diogo Vaz</a> - Co-advisors: <a href="https://www.gsd.inesc-id.pt/~mpc/team.html" target="_blank" rel="noopener noreferrer">Miguel Pupo Correia</a>, <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br><br></li>
+</ul>
+<h2>MSc</h2>
+<ul>
+<li>Francisco Faria - Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Unchain my Block: a recovery system for blockchain applications</li>
+<li>Bruno Gomes - Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Show me the Crypto: a blockchain crowdfunding platform </li>
+<li>João Soares - Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>MACHET3, a new multi-path communication solution using secret sharing</li>
+</ul>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About me</title>
         <author>
