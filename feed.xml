@@ -1,42 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>David R. Matos</title>
-    <link href="https://davidmatos.github.io/aboutme/feed.xml" rel="self" />
-    <link href="https://davidmatos.github.io/aboutme" />
-    <updated>2022-07-05T14:01:04+01:00</updated>
+    <link href="https://davidmatos.github.io/feed.xml" rel="self" />
+    <link href="https://davidmatos.github.io" />
+    <updated>2022-07-05T14:16:11+01:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
-    <id>https://davidmatos.github.io/aboutme</id>
+    <id>https://davidmatos.github.io</id>
 
     <entry>
         <title>About me</title>
         <author>
             <name>David R. Matos</name>
         </author>
-        <link href="https://davidmatos.github.io/aboutme/publications-2/"/>
-        <id>https://davidmatos.github.io/aboutme/publications-2/</id>
+        <link href="https://davidmatos.github.io/publications-2/"/>
+        <id>https://davidmatos.github.io/publications-2/</id>
 
-        <updated>2021-02-19T18:13:53+00:00</updated>
+        <updated>2022-07-05T14:16:11+01:00</updated>
             <summary>
                 <![CDATA[
-                    Bio I am a postdoctoral researcher at the Distributed Systems Group (GSD) of INESC-ID. I am currently working at the SEAL project researching novel security techniques for web applications. I have a BSc and a MSc in Informatics Engineering from Faculdade de Ciências da Universidade de&hellip;
+                    Bio I am an Invited Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID and a member of DCentral. I have a BSc and a MSc in Informatics Engineering from Faculdade de Ciências da Universidade&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Bio</h2>
-<p>I am a postdoctoral researcher at the <a href="https://www.gsd.inesc-id.pt" target="_blank" rel="noopener noreferrer">Distributed Systems Group</a> (GSD) of <a href="https://inesc-id.pt" target="_blank" rel="noopener noreferrer">INESC-ID</a>. I am currently working at the <a href="http://seal.lasige.di.fc.ul.pt" target="_blank" rel="noopener noreferrer">SEAL</a> project researching novel security techniques for web applications.</p>
+<p>I am an Invited Assistant Professor at <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a> - <a href="https://www.ulisboa.pt" target="_blank" rel="noopener noreferrer">Universidade de Lisboa</a>, researcher at the <a href="https://www.gsd.inesc-id.pt" target="_blank" rel="noopener noreferrer">Distributed Systems Group</a> (GSD) of <a href="https://inesc-id.pt" target="_blank" rel="noopener noreferrer">INESC-ID </a>and a member of <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">DCentral.</a> </p>
 <p>I have a BSc and a MSc in Informatics Engineering from <a href="https://ciencias.ulisboa.pt" target="_blank" rel="noopener noreferrer">Faculdade de Ciências da Universidade de Lisboa</a> and a PhD in Computer Sciences and Engineering from <a href="https://tecnico.ulisboa.pt/pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a>. </p>
-<p>As a researcher I participated in the following projects: PATI, SITAN, <a href="https://www.safecloud-project.eu" target="_blank" rel="noopener noreferrer">SafeCloud</a> and <a href="http://seal.lasige.di.fc.ul.pt" target="_blank" rel="noopener noreferrer">SEAL</a>.</p>
+<p>As a researcher I participated in the following projects: PATI, SITAN, <a href="https://www.safecloud-project.eu" target="_blank" rel="noopener noreferrer">SafeClou,</a> <a href="http://seal.lasige.di.fc.ul.pt" target="_blank" rel="noopener noreferrer">SEAL</a> and <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a>.</p>
 <p>My research interests are related with distributed systems, cybersecurity and cloud. More specifically, I have been researching novel intrusion recovery methods for applications and systems running in the cloud environment. </p>
 <h2>Selected Publications</h2>
 <ul>
+<li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications</strong>. <br>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
 <li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
 <li>David Matos, Miguel Correia<br><strong>NoSQL Undo: Recovering NoSQL Databases by Undoing Operations<br></strong>In <i>Proceedings of the 15th IEEE International Symposium on Network Computing and Applications (NCA),</i> Nov. 2016<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/nosql-undo-recovering.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/NoSQL-Undo">📦Code</a></li>
 </ul>
-<p class="align-center"><strong><em><a href="https://davidmatos.github.io/aboutme/publications/">View all</a></em></strong></p>
+<p class="align-center"><strong><em><a href="https://davidmatos.github.io/publications/">View all</a></em></strong></p>
 <p> </p>
             ]]>
         </content>
@@ -46,8 +47,8 @@
         <author>
             <name>David R. Matos</name>
         </author>
-        <link href="https://davidmatos.github.io/aboutme/education/"/>
-        <id>https://davidmatos.github.io/aboutme/education/</id>
+        <link href="https://davidmatos.github.io/education/"/>
+        <id>https://davidmatos.github.io/education/</id>
 
         <updated>2020-01-29T22:40:12+00:00</updated>
             <summary>
@@ -60,19 +61,19 @@
                 <table style="border: none; border-color: #FFF; border-collapse: collapse;" border="0px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="border: none;">
-<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/aboutme/media/posts/5/IST_Logo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/aboutme/media/posts/5/responsive/IST_Logo-xs.png 300w ,https://davidmatos.github.io/aboutme/media/posts/5/responsive/IST_Logo-sm.png 480w ,https://davidmatos.github.io/aboutme/media/posts/5/responsive/IST_Logo-md.png 768w ,https://davidmatos.github.io/aboutme/media/posts/5/responsive/IST_Logo-lg.png 1024w ,https://davidmatos.github.io/aboutme/media/posts/5/responsive/IST_Logo-xl.png 1360w ,https://davidmatos.github.io/aboutme/media/posts/5/responsive/IST_Logo-2xl.png 1600w"  alt="" width="40" height="40"></figure></td>
+<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/5/IST_Logo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-xs.png 300w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-sm.png 480w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-md.png 768w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-2xl.png 1600w"  alt="" width="40" height="40"></figure></td>
 <td style="border: none;">
 <p class="msg msg--info"><strong>🎓PhD in Information Systems and Computer Engineering, 2019</strong><br><a href="https://tecnico.ulisboa.pt">Instituto Superior Técnico - Universidade de Lisboa</a></p>
 </td>
 </tr>
 <tr style="border: none;">
-<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/aboutme/media/posts/5/Unknown" alt="" width="40" height="40"></figure></td>
+<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/5/Unknown" alt="" width="40" height="40"></figure></td>
 <td style="border: none;">
 <p class="msg msg--info"><strong>🎓MSc in Informatics Engineering, 2013</strong><br><a href="https://ciencias.ulisboa.pt">Faculdade de Ciências - Universidade de Lisboa</a> </p>
 </td>
 </tr>
 <tr style="border: none;">
-<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/aboutme/media/posts/5/Unknown" alt="" width="40" height="40"></figure></td>
+<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/5/Unknown" alt="" width="40" height="40"></figure></td>
 <td style="border: none;">
 <p class="msg msg--info"><strong>🎓BSc in Informatics Engineering, 2012</strong><br><a href="https://ciencias.ulisboa.pt">Faculdade de Ciências - Universidade de Lisboa</a></p>
 </td>
@@ -88,8 +89,8 @@
         <author>
             <name>David R. Matos</name>
         </author>
-        <link href="https://davidmatos.github.io/aboutme/contact/"/>
-        <id>https://davidmatos.github.io/aboutme/contact/</id>
+        <link href="https://davidmatos.github.io/contact/"/>
+        <id>https://davidmatos.github.io/contact/</id>
 
         <updated>2020-01-29T14:48:30+00:00</updated>
             <summary>
@@ -109,8 +110,8 @@
         <author>
             <name>David R. Matos</name>
         </author>
-        <link href="https://davidmatos.github.io/aboutme/teaching/"/>
-        <id>https://davidmatos.github.io/aboutme/teaching/</id>
+        <link href="https://davidmatos.github.io/teaching/"/>
+        <id>https://davidmatos.github.io/teaching/</id>
 
         <updated>2021-01-22T20:50:21+00:00</updated>
             <summary>
@@ -136,8 +137,8 @@
         <author>
             <name>David R. Matos</name>
         </author>
-        <link href="https://davidmatos.github.io/aboutme/projects/"/>
-        <id>https://davidmatos.github.io/aboutme/projects/</id>
+        <link href="https://davidmatos.github.io/projects/"/>
+        <id>https://davidmatos.github.io/projects/</id>
 
         <updated>2021-01-22T20:58:13+00:00</updated>
             <summary>
@@ -153,9 +154,9 @@
 <p>The RaaS project was submitted to the FCT <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">2020 Call for SR&amp;TD Project Grants with an overall rating of 7.0. It will be resubmitted to the next call in 2021.</span></p>
 <p><br><br></p>
 <h2><a href="https://www.safecloud-project.eu/">Safecloud</a></h2>
-<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/aboutme/media/posts/2/logo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/aboutme/media/posts/2/responsive/logo-xs.png 300w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/logo-sm.png 480w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/logo-md.png 768w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/logo-lg.png 1024w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/logo-xl.png 1360w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/logo-2xl.png 1600w"  alt="SafeCloud logo" width="409" height="72"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/logo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/logo-xs.png 300w ,https://davidmatos.github.io/media/posts/2/responsive/logo-sm.png 480w ,https://davidmatos.github.io/media/posts/2/responsive/logo-md.png 768w ,https://davidmatos.github.io/media/posts/2/responsive/logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/2/responsive/logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/2/responsive/logo-2xl.png 1600w"  alt="SafeCloud logo" width="409" height="72"></figure>
 <h2><a href="http://seal.lasige.di.fc.ul.pt">SEAL</a></h2>
-<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/aboutme/media/posts/2/seal_logo.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/aboutme/media/posts/2/responsive/seal_logo-xs.jpg 300w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/seal_logo-sm.jpg 480w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/seal_logo-md.jpg 768w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/seal_logo-lg.jpg 1024w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/seal_logo-xl.jpg 1360w ,https://davidmatos.github.io/aboutme/media/posts/2/responsive/seal_logo-2xl.jpg 1600w"  alt="" width="349" height="110"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/seal_logo.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xs.jpg 300w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-sm.jpg 480w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-md.jpg 768w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-lg.jpg 1024w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xl.jpg 1360w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-2xl.jpg 1600w"  alt="" width="349" height="110"></figure>
             ]]>
         </content>
     </entry>
@@ -164,8 +165,8 @@
         <author>
             <name>David R. Matos</name>
         </author>
-        <link href="https://davidmatos.github.io/aboutme/publications/"/>
-        <id>https://davidmatos.github.io/aboutme/publications/</id>
+        <link href="https://davidmatos.github.io/publications/"/>
+        <id>https://davidmatos.github.io/publications/</id>
 
         <updated>2022-07-05T14:01:04+01:00</updated>
             <summary>
@@ -177,14 +178,14 @@
             <![CDATA[
                 <h2>Journal papers</h2>
 <ul>
-<li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>MIRES: Intrusion Recovery for Application based on Backend-as-a-Service<br></strong><a href="https://davidmatos.github.io/aboutme/media/files/MIRES_Journal_Paper.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/aboutme/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>MIRES: Intrusion Recovery for Application based on Backend-as-a-Service<br></strong><a href="https://davidmatos.github.io/media/files/MIRES_Journal_Paper.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
+<li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 </ul>
 <h2>Conference papers</h2>
 <ul>
-<li>Diogo Vaz, David R. Matos, Miguel L. Pardal, and Miguel Correia<br><strong>MIRES: Recovering Mobile Applications based on Backend-as-a-Service from Cyber Attacks</strong>. <br>In Proceedings of MobiQuitous 2020 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/aboutme/media/files/MIRES__Diogo_Vaz_.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
-<li>Filipe Martins, David Matos, Miguel Pardal and Miguel Correia<br><strong>Recoverable Token: Recovering from Intrusions against Digital Assets in the Ethereum Blockchain</strong>. <br>In Proceedings of the 19th IEEE International Symposium on Network Computing and Applications (NCA), Nov. 2020 [Core A]<br><a href="https://davidmatos.github.io/aboutme/media/files/Recoverable_Token__Filipe_Martins_final.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>Alexandra Figueiredo, Tatjana Lide, David Matos and Miguel Correia<br><strong>MERLIN: Multi-Language Web Vulnerability Detection<br></strong>In Proceedings of the 19th IEEE International Symposium on Network Computing and Applications (NCA), Nov. 2020 [Core A]<br><a href="https://davidmatos.github.io/aboutme/media/files/MERLIN-nca2020-final.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a>𐄁 <a href="https://github.com/asgcfigueiredo/MERLIN" target="_blank" rel="noopener noreferrer">📦Code</a><a href="https://davidmatos.github.io/aboutme/media/files/Recoverable_Token__Filipe_Martins_final.pdf" target="_blank" rel="noopener noreferrer"></a></li>
+<li>Diogo Vaz, David R. Matos, Miguel L. Pardal, and Miguel Correia<br><strong>MIRES: Recovering Mobile Applications based on Backend-as-a-Service from Cyber Attacks</strong>. <br>In Proceedings of MobiQuitous 2020 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/MIRES__Diogo_Vaz_.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>Filipe Martins, David Matos, Miguel Pardal and Miguel Correia<br><strong>Recoverable Token: Recovering from Intrusions against Digital Assets in the Ethereum Blockchain</strong>. <br>In Proceedings of the 19th IEEE International Symposium on Network Computing and Applications (NCA), Nov. 2020 [Core A]<br><a href="https://davidmatos.github.io/media/files/Recoverable_Token__Filipe_Martins_final.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
+<li>Alexandra Figueiredo, Tatjana Lide, David Matos and Miguel Correia<br><strong>MERLIN: Multi-Language Web Vulnerability Detection<br></strong>In Proceedings of the 19th IEEE International Symposium on Network Computing and Applications (NCA), Nov. 2020 [Core A]<br><a href="https://davidmatos.github.io/media/files/MERLIN-nca2020-final.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a>𐄁 <a href="https://github.com/asgcfigueiredo/MERLIN" target="_blank" rel="noopener noreferrer">📦Code</a><a href="https://davidmatos.github.io/media/files/Recoverable_Token__Filipe_Martins_final.pdf" target="_blank" rel="noopener noreferrer"></a></li>
 <li>Ricardo Moura, David Matos, Miguel L. Pardal, Miguel Correia<br><strong>MultiTLS: Secure communication channel with cipher suite diversity</strong><br>In 35th IFIP TC-11 SEC 2020 International Information Security and Privacy Conference, 2020<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
 <li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
@@ -192,14 +193,14 @@
 </ul>
 <h2>Technical reports</h2>
 <ul>
-<li>David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong><a href="https://www.techrxiv.org/articles/preprint/Sanare_Pluggable_Intrusion_Recovery_for_Web_Applications/13725991" target="_blank" rel="noopener noreferrer">Sanare: Pluggable Intrusion Recovery for Web Applications</a><br></strong><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/aboutme/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong><a href="https://www.techrxiv.org/articles/preprint/Sanare_Pluggable_Intrusion_Recovery_for_Web_Applications/13725991" target="_blank" rel="noopener noreferrer">Sanare: Pluggable Intrusion Recovery for Web Applications</a><br></strong><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 <li>David R. Matos, Nuno Neves, Alysson Bessani<br><strong>SITAN: Services for Fault-Tolerant Ad Hoc Networks with Unknown Participants</strong>
 <div><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></div>
 </li>
 </ul>
 <h2>Short papers / Workshop papers</h2>
 <ul>
-<li>David R. Matos, Miguel L. Pardal, Pedro Adão, Rito Silva and Miguel Correia<br><strong>Securing Electronic Health Records in the Cloud</strong><br>1st Workshop on Privacy by Design in Distributed Systems (in EuroSys 2018)<br>May 2018<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/SITAN_DSN.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/aboutme/media/files/securing-electronic-health.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>David R. Matos, Miguel L. Pardal, Pedro Adão, Rito Silva and Miguel Correia<br><strong>Securing Electronic Health Records in the Cloud</strong><br>1st Workshop on Privacy by Design in Distributed Systems (in EuroSys 2018)<br>May 2018<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/SITAN_DSN.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/securing-electronic-health.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 <li>David Matos, Nuno Neves, Alysson Bessani<br><strong>SITAN: Services for Ad Hoc Networks with Unknown Participants</strong><br>Fast Abstract in Supplement of the International Conference on Dependable Systems and Networks (DSN), Atlanta, USA, 2 pages, June 2014<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/SITAN_DSN.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 </ul>
 <h2>Portuguese conference papers</h2>
