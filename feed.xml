@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2022-07-05T14:31:05+01:00</updated>
+    <updated>2022-07-05T14:33:04+01:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -198,7 +198,7 @@
         <link href="https://davidmatos.github.io/publications/"/>
         <id>https://davidmatos.github.io/publications/</id>
 
-        <updated>2022-07-05T14:01:04+01:00</updated>
+        <updated>2022-07-05T14:33:04+01:00</updated>
             <summary>
                 <![CDATA[
                     Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia MIRES: Intrusion Recovery for Application based on Backend-as-a-Service 📄PDF David Matos, Miguel Pardal, Miguel Correia Sanare: Pluggable Intrusion Recovery for Web Applications IEEE Transactions on Dependable and Secure Computing (TDSC), 2021 📄PDF Conference&hellip;
@@ -223,7 +223,7 @@
 </ul>
 <h2>Technical reports</h2>
 <ul>
-<li>David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong><a href="https://www.techrxiv.org/articles/preprint/Sanare_Pluggable_Intrusion_Recovery_for_Web_Applications/13725991" target="_blank" rel="noopener noreferrer">Sanare: Pluggable Intrusion Recovery for Web Applications</a><br></strong><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 <li>David R. Matos, Nuno Neves, Alysson Bessani<br><strong>SITAN: Services for Fault-Tolerant Ad Hoc Networks with Unknown Participants</strong>
 <div><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></div>
 </li>
