@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2022-11-17T17:24:40+00:00</updated>
+    <updated>2022-11-25T21:49:53+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -98,7 +98,7 @@
                 <table style="border: none; border-color: #FFF; border-collapse: collapse;" border="0px" cellspacing="0" cellpadding="0">
 <tbody>
 <tr style="border: none;">
-<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/5/IST_Logo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-xs.png 300w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-sm.png 480w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-md.png 768w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-2xl.png 1600w"  alt="" width="40" height="40"></figure></td>
+<td style="border: none;"><figure class="post__image post__image--center"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/5/IST_Logo.png" alt="" width="40" height="40" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-xs.png 300w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-sm.png 480w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-md.png 768w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/5/responsive/IST_Logo-2xl.png 1600w"></figure></td>
 <td style="border: none;">
 <p class="msg msg--info"><strong>🎓PhD in Information Systems and Computer Engineering, 2019</strong><br><a href="https://tecnico.ulisboa.pt">Instituto Superior Técnico - Universidade de Lisboa</a></p>
 </td>
@@ -150,16 +150,21 @@
         <link href="https://davidmatos.github.io/teaching/"/>
         <id>https://davidmatos.github.io/teaching/</id>
 
-        <updated>2021-01-22T20:50:21+00:00</updated>
+        <updated>2022-11-25T21:49:53+00:00</updated>
             <summary>
                 <![CDATA[
-                    TA DEI - Instituto Superior Técnico - Universidade de Lisboa (2018 / 2019) - Network and Computer Security (2016 / 2017) - Distributed Systems [Excellence Award] (2016 / 2017) - Network and Computer Security [Excellence Award] (2015 / 2016) - Distributed Systems
+                    Teaching DEI - Instituto Superior Técnico - Universidade de Lisboa Laboratory classes (2022 / 2023) - Network and Computer Security TA - Laboratory classes (2018 / 2019) - Network and Computer Security (2016 / 2017) - Distributed Systems [Excellence Award] (2016 / 2017) - Network and Computer&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>TA</h2>
+                <h2>Teaching</h2>
 <p><a href="https://dei.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">DEI</a> - <a href="https://tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a> - <a href="https://www.ulisboa.pt" target="_blank" rel="noopener noreferrer">Universidade de Lisboa</a></p>
+<h6>Laboratory classes</h6>
+<ul>
+<li>(2022 / 2023) - Network and Computer Security </li>
+</ul>
+<h6>TA - Laboratory classes</h6>
 <ul>
 <li>(2018 / 2019) - Network and Computer Security</li>
 <li>(2016 / 2017) - Distributed Systems  [<strong>Excellence Award</strong>]</li>
@@ -191,9 +196,9 @@
 <p>The RaaS project was submitted to the FCT <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">2020 Call for SR&amp;TD Project Grants with an overall rating of 7.0. It will be resubmitted to the next call in 2021.</span></p>
 <p><br><br></p>
 <h2><a href="https://www.safecloud-project.eu/">Safecloud</a></h2>
-<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/logo.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/logo-xs.png 300w ,https://davidmatos.github.io/media/posts/2/responsive/logo-sm.png 480w ,https://davidmatos.github.io/media/posts/2/responsive/logo-md.png 768w ,https://davidmatos.github.io/media/posts/2/responsive/logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/2/responsive/logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/2/responsive/logo-2xl.png 1600w"  alt="SafeCloud logo" width="409" height="72"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/logo.png" alt="SafeCloud logo" width="409" height="72" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/logo-xs.png 300w ,https://davidmatos.github.io/media/posts/2/responsive/logo-sm.png 480w ,https://davidmatos.github.io/media/posts/2/responsive/logo-md.png 768w ,https://davidmatos.github.io/media/posts/2/responsive/logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/2/responsive/logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/2/responsive/logo-2xl.png 1600w"></figure>
 <h2><a href="http://seal.lasige.di.fc.ul.pt">SEAL</a></h2>
-<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/seal_logo.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xs.jpg 300w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-sm.jpg 480w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-md.jpg 768w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-lg.jpg 1024w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xl.jpg 1360w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-2xl.jpg 1600w"  alt="" width="349" height="110"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/seal_logo.jpg" alt="" width="349" height="110" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xs.jpg 300w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-sm.jpg 480w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-md.jpg 768w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-lg.jpg 1024w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xl.jpg 1360w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
