@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2022-11-25T21:49:53+00:00</updated>
+    <updated>2022-11-25T21:54:03+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -182,15 +182,16 @@
         <link href="https://davidmatos.github.io/projects/"/>
         <id>https://davidmatos.github.io/projects/</id>
 
-        <updated>2021-01-22T20:58:13+00:00</updated>
+        <updated>2022-11-25T21:54:03+00:00</updated>
             <summary>
                 <![CDATA[
-                    RaaS - Recovery as a Service Under development The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like: the incapacity to&hellip;
+                    BIG RaaS - Recovery as a Service Under development The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like: the incapacity&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h2>RaaS - Recovery as a Service</h2>
+                <h2><a href="https://bigerachair.tecnico.ulisboa.pt" title="Big Project" target="_blank" rel="noopener noreferrer">BIG</a><br><a href="https://bigerachair.tecnico.ulisboa.pt/" class="custom-logo-link" rel="home" aria-current="page"><figure class="custom-logo"><img loading="lazy"  src="https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2-209x113.png" sizes="(max-width: 209px) 100vw, 209px" srcset="https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2-209x113.png 209w, https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2-300x162.png 300w, https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2.png 742w" alt="Blockchain technologies and design Innovation for social Good" width="209" height="113" data-is-external-image="true"></figure></a></h2>
+<h2>RaaS - Recovery as a Service</h2>
 <pre><code>Under development</code></pre>
 <p><span style="font-weight: 400;">The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like: the incapacity to modify the source code of the platform, since it is maintained by a third party and provided to users as a service; the heterogeneity of the different cloud service models, which makes it infeasible to adopt a single solution that fits all use cases; the existence of a third party that manages and maintains the cloud platform, restricting the control of the platform.</span></p>
 <p>The RaaS project was submitted to the FCT <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">2020 Call for SR&amp;TD Project Grants with an overall rating of 7.0. It will be resubmitted to the next call in 2021.</span></p>
