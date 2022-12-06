@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2022-11-25T21:54:03+00:00</updated>
+    <updated>2022-12-06T15:04:45+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://davidmatos.github.io/students/"/>
         <id>https://davidmatos.github.io/students/</id>
 
-        <updated>2022-11-17T17:24:40+00:00</updated>
+        <updated>2022-12-06T15:01:27+00:00</updated>
             <summary>
                 <![CDATA[
-                    Current PhD Diogo Vaz - Co-advisors: Miguel Pupo Correia, Miguel L. Pardal Using machine learning techniques to solve distributed problems MSc Francisco Faria - Co-advisor: Miguel L. Pardal Unchain my Block: a recovery system for blockchain applications Bruno Gomes - Co-advisor: Miguel L. Pardal Show&hellip;
+                    Current PhD Diogo Vaz - Co-advisors: Miguel Pupo Correia, Miguel L. Pardal Using machine learning techniques to solve distributed problems MSc Francisco Faria Co-advisor: Miguel L. Pardal Unchain my Block: a recovery system for blockchain applications Bruno Gomes Co-advisor: Miguel L. Pardal Show me the&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -32,14 +32,16 @@
 </ul>
 <h3>MSc</h3>
 <ul>
-<li>Francisco Faria - Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Unchain my Block: a recovery system for blockchain applications</li>
-<li>Bruno Gomes - Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Show me the Crypto: a blockchain crowdfunding platform </li>
+<li><strong>Francisco Faria<br></strong>Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Unchain my Block: a recovery system for blockchain applications</li>
+<li><strong>Bruno Gomes</strong><br>Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Show me the Crypto: a blockchain crowdfunding platform </li>
+<li><strong>Rodrigo Gomes</strong><br>Co-advisor: Kevin Gallagher<br>A blockchain platform to manage data access for GDPR</li>
+<li><strong>Gonçalo Carreira<br></strong>Co-advisor: Cathy Mulligan<br>6G Swarm Networks</li>
 </ul>
 <hr>
 <h1>Past</h1>
 <h3>MSc</h3>
 <ul>
-<li>João Soares - Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>MACHET3, a new multi-path communication solution using secret sharing</li>
+<li><strong>João Soares</strong><br>Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>MACHET3, a new multi-path communication solution using secret sharing</li>
 </ul>
 <p> </p>
 <p> </p>
@@ -54,19 +56,19 @@
         <link href="https://davidmatos.github.io/publications-2/"/>
         <id>https://davidmatos.github.io/publications-2/</id>
 
-        <updated>2022-07-05T14:16:11+01:00</updated>
+        <updated>2022-12-06T15:03:00+00:00</updated>
             <summary>
                 <![CDATA[
-                    Bio I am an Invited Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID and a member of DCentral. I have a BSc and a MSc in Informatics Engineering from Faculdade de Ciências da Universidade&hellip;
+                    Bio I am an Invited Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID, and a member of the BIG ERA Chair Team. I have a BSc and a MSc in Informatics Engineering from Faculdade&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Bio</h2>
-<p>I am an Invited Assistant Professor at <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a> - <a href="https://www.ulisboa.pt" target="_blank" rel="noopener noreferrer">Universidade de Lisboa</a>, researcher at the <a href="https://www.gsd.inesc-id.pt" target="_blank" rel="noopener noreferrer">Distributed Systems Group</a> (GSD) of <a href="https://inesc-id.pt" target="_blank" rel="noopener noreferrer">INESC-ID </a>and a member of <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">DCentral.</a> </p>
+<p>I am an Invited Assistant Professor at <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a> - <a href="https://www.ulisboa.pt" target="_blank" rel="noopener noreferrer">Universidade de Lisboa</a>, researcher at the <a href="https://www.gsd.inesc-id.pt" target="_blank" rel="noopener noreferrer">Distributed Systems Group</a> (GSD) of <a href="https://inesc-id.pt" target="_blank" rel="noopener noreferrer">INESC-ID, </a>and a member of the <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a> Team. </p>
 <p>I have a BSc and a MSc in Informatics Engineering from <a href="https://ciencias.ulisboa.pt" target="_blank" rel="noopener noreferrer">Faculdade de Ciências da Universidade de Lisboa</a> and a PhD in Computer Sciences and Engineering from <a href="https://tecnico.ulisboa.pt/pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a>. </p>
-<p>As a researcher I participated in the following projects: PATI, SITAN, <a href="https://www.safecloud-project.eu" target="_blank" rel="noopener noreferrer">SafeClou,</a> <a href="http://seal.lasige.di.fc.ul.pt" target="_blank" rel="noopener noreferrer">SEAL</a> and <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a>.</p>
-<p>My research interests are related with distributed systems, cybersecurity and cloud. More specifically, I have been researching novel intrusion recovery methods for applications and systems running in the cloud environment. </p>
+<p>As a researcher, I participated in the following projects: PATI, SITAN, <a href="https://www.safecloud-project.eu" target="_blank" rel="noopener noreferrer">SafeCloud,</a> <a href="http://seal.lasige.di.fc.ul.pt" target="_blank" rel="noopener noreferrer">SEAL,</a> and <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a>.</p>
+<p>My research interests are related to distributed systems, cybersecurity, and cloud. More specifically, I have been researching novel intrusion recovery methods for applications and systems running in the cloud environment. </p>
 <h2>Selected Publications</h2>
 <ul>
 <li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications</strong>. <br>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
@@ -182,24 +184,27 @@
         <link href="https://davidmatos.github.io/projects/"/>
         <id>https://davidmatos.github.io/projects/</id>
 
-        <updated>2022-11-25T21:54:03+00:00</updated>
+        <updated>2022-12-06T15:04:37+00:00</updated>
             <summary>
                 <![CDATA[
-                    BIG RaaS - Recovery as a Service Under development The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like: the incapacity&hellip;
+                    BIG Safecloud SEAL Under development RaaS - Recovery as a Service The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like:&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2><a href="https://bigerachair.tecnico.ulisboa.pt" title="Big Project" target="_blank" rel="noopener noreferrer">BIG</a><br><a href="https://bigerachair.tecnico.ulisboa.pt/" class="custom-logo-link" rel="home" aria-current="page"><figure class="custom-logo"><img loading="lazy"  src="https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2-209x113.png" sizes="(max-width: 209px) 100vw, 209px" srcset="https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2-209x113.png 209w, https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2-300x162.png 300w, https://bigerachair.tecnico.ulisboa.pt/wp-content/uploads/2020/09/Big-2.png 742w" alt="Blockchain technologies and design Innovation for social Good" width="209" height="113" data-is-external-image="true"></figure></a></h2>
-<h2>RaaS - Recovery as a Service</h2>
-<pre><code>Under development</code></pre>
-<p><span style="font-weight: 400;">The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like: the incapacity to modify the source code of the platform, since it is maintained by a third party and provided to users as a service; the heterogeneity of the different cloud service models, which makes it infeasible to adopt a single solution that fits all use cases; the existence of a third party that manages and maintains the cloud platform, restricting the control of the platform.</span></p>
-<p>The RaaS project was submitted to the FCT <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">2020 Call for SR&amp;TD Project Grants with an overall rating of 7.0. It will be resubmitted to the next call in 2021.</span></p>
-<p><br><br></p>
 <h2><a href="https://www.safecloud-project.eu/">Safecloud</a></h2>
 <figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/logo.png" alt="SafeCloud logo" width="409" height="72" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/logo-xs.png 300w ,https://davidmatos.github.io/media/posts/2/responsive/logo-sm.png 480w ,https://davidmatos.github.io/media/posts/2/responsive/logo-md.png 768w ,https://davidmatos.github.io/media/posts/2/responsive/logo-lg.png 1024w ,https://davidmatos.github.io/media/posts/2/responsive/logo-xl.png 1360w ,https://davidmatos.github.io/media/posts/2/responsive/logo-2xl.png 1600w"></figure>
 <h2><a href="http://seal.lasige.di.fc.ul.pt">SEAL</a></h2>
 <figure class="post__image"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/2/seal_logo.jpg" alt="" width="349" height="110" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xs.jpg 300w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-sm.jpg 480w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-md.jpg 768w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-lg.jpg 1024w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-xl.jpg 1360w ,https://davidmatos.github.io/media/posts/2/responsive/seal_logo-2xl.jpg 1600w"></figure>
+<p> </p>
+<p> </p>
+<hr>
+<h2> </h2>
+<pre><code>Under development</code></pre>
+<h2>RaaS - Recovery as a Service</h2>
+<p><span style="font-weight: 400;">The Recovery as a Service project will focus on the development of novel techniques and mechanisms to recover from intrusions in public clouds. These mechanisms take into account the constraints of public clouds like: the incapacity to modify the source code of the platform, since it is maintained by a third party and provided to users as a service; the heterogeneity of the different cloud service models, which makes it infeasible to adopt a single solution that fits all use cases; the existence of a third party that manages and maintains the cloud platform, restricting the control of the platform.</span></p>
+<p>The RaaS project was submitted to the FCT <span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">2020 Call for SR&amp;TD Project Grants with an overall rating of 7.0. It will be resubmitted to the next call in 2021.</span></p>
             ]]>
         </content>
     </entry>
@@ -211,7 +216,7 @@
         <link href="https://davidmatos.github.io/publications/"/>
         <id>https://davidmatos.github.io/publications/</id>
 
-        <updated>2022-07-08T16:47:47+01:00</updated>
+        <updated>2022-12-06T15:04:45+00:00</updated>
             <summary>
                 <![CDATA[
                     Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia MIRES: Intrusion Recovery for Application based on Backend-as-a-Service IEEE Transactions on Cloud Computing (TCC), 2022 📄PDF David Matos, Miguel Pardal, Miguel Correia Sanare: Pluggable Intrusion Recovery for Web Applications IEEE Transactions on Dependable&hellip;
