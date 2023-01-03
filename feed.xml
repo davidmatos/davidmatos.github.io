@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2022-12-06T15:04:45+00:00</updated>
+    <updated>2023-01-03T16:57:38+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -216,7 +216,7 @@
         <link href="https://davidmatos.github.io/publications/"/>
         <id>https://davidmatos.github.io/publications/</id>
 
-        <updated>2022-12-06T15:04:45+00:00</updated>
+        <updated>2023-01-03T16:57:38+00:00</updated>
             <summary>
                 <![CDATA[
                     Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia MIRES: Intrusion Recovery for Application based on Backend-as-a-Service IEEE Transactions on Cloud Computing (TCC), 2022 📄PDF David Matos, Miguel Pardal, Miguel Correia Sanare: Pluggable Intrusion Recovery for Web Applications IEEE Transactions on Dependable&hellip;
@@ -234,16 +234,16 @@
 <li>Diogo Vaz, David R. Matos, Miguel L. Pardal, and Miguel Correia<br><strong>MIRES: Recovering Mobile Applications based on Backend-as-a-Service from Cyber Attacks</strong>. <br>In Proceedings of MobiQuitous 2020 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/MIRES__Diogo_Vaz_.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 <li>Filipe Martins, David Matos, Miguel Pardal and Miguel Correia<br><strong>Recoverable Token: Recovering from Intrusions against Digital Assets in the Ethereum Blockchain</strong>. <br>In Proceedings of the 19th IEEE International Symposium on Network Computing and Applications (NCA), Nov. 2020 [Core A]<br><a href="https://davidmatos.github.io/media/files/Recoverable_Token__Filipe_Martins_final.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>Alexandra Figueiredo, Tatjana Lide, David Matos and Miguel Correia<br><strong>MERLIN: Multi-Language Web Vulnerability Detection<br></strong>In Proceedings of the 19th IEEE International Symposium on Network Computing and Applications (NCA), Nov. 2020 [Core A]<br><a href="https://davidmatos.github.io/media/files/MERLIN-nca2020-final.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a>𐄁 <a href="https://github.com/asgcfigueiredo/MERLIN" target="_blank" rel="noopener noreferrer">📦Code</a><a href="https://davidmatos.github.io/media/files/Recoverable_Token__Filipe_Martins_final.pdf" target="_blank" rel="noopener noreferrer"></a></li>
-<li>Ricardo Moura, David Matos, Miguel L. Pardal, Miguel Correia<br><strong>MultiTLS: Secure communication channel with cipher suite diversity</strong><br>In 35th IFIP TC-11 SEC 2020 International Information Security and Privacy Conference, 2020<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
-<li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
-<li>David Matos, Miguel Correia<br><strong>NoSQL Undo: Recovering NoSQL Databases by Undoing Operations<br></strong>In <i>Proceedings of the 15th IEEE International Symposium on Network Computing and Applications (NCA),</i> Nov. 2016 [Core A]<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/nosql-undo-recovering.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/NoSQL-Undo">📦Code</a></li>
+<li>Ricardo Moura, David Matos, Miguel L. Pardal, Miguel Correia<br><strong>MultiTLS: Secure communication channel with cipher suite diversity</strong><br>In 35th IFIP TC-11 SEC 2020 International Information Security and Privacy Conference, 2020<br><a href="https://davidmatos.github.io/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
+<li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018 [Core A]<br><a href="https://davidmatos.github.io/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
+<li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017 [Core A]<br><a href="https://davidmatos.github.io/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
+<li>David Matos, Miguel Correia<br><strong>NoSQL Undo: Recovering NoSQL Databases by Undoing Operations<br></strong>In <i>Proceedings of the 15th IEEE International Symposium on Network Computing and Applications (NCA),</i> Nov. 2016 [Core A]<br><a href="https://davidmatos.github.io/media/files/nosql-undo-recovering.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/NoSQL-Undo">📦Code</a></li>
 </ul>
 <h2>Technical reports</h2>
 <ul>
 <li>David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 <li>David R. Matos, Nuno Neves, Alysson Bessani<br><strong>SITAN: Services for Fault-Tolerant Ad Hoc Networks with Unknown Participants</strong>
-<div><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></div>
+<div><a href="https://davidmatos.github.io/media/files/sitan-arxiv.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></div>
 </li>
 </ul>
 <h2>Short papers / Workshop papers</h2>
@@ -257,8 +257,8 @@
 </ul>
 <h2>Thesis</h2>
 <ul>
-<li>David Matos. <strong>Intrusion Recovery in Cloud Computing<br></strong>PhD Thesis. Instituto Superior Técnico - Universidade de Lisboa, July 2019<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/thesis.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>David Matos. <strong>Achieving fault-tolerant consensus in ad hoc networks<br></strong>MSc Thesis. Faculdade de Ciências da Universidade de Lisboa, November 2013<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/msc_thesis.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
+<li>David Matos. <strong>Intrusion Recovery in Cloud Computing<br></strong>PhD Thesis. Instituto Superior Técnico - Universidade de Lisboa, July 2019<br><a href="https://davidmatos.github.io/media/files/thesis.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
+<li>David Matos. <strong>Achieving fault-tolerant consensus in ad hoc networks<br></strong>MSc Thesis. Faculdade de Ciências da Universidade de Lisboa, November 2013<br><a href="https://davidmatos.github.io/media/files/msc_thesis.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 </ul>
             ]]>
         </content>
