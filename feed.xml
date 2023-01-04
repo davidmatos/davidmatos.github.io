@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-01-04T08:21:20+00:00</updated>
+    <updated>2023-01-04T08:40:02+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -216,7 +216,7 @@
         <link href="https://davidmatos.github.io/publications/"/>
         <id>https://davidmatos.github.io/publications/</id>
 
-        <updated>2023-01-04T08:21:20+00:00</updated>
+        <updated>2023-01-04T08:40:02+00:00</updated>
             <summary>
                 <![CDATA[
                     Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia MIRES: Intrusion Recovery for Application based on Backend-as-a-Service IEEE Transactions on Cloud Computing (TCC), 2022 📄PDF David Matos, Miguel Pardal, Miguel Correia Sanare: Pluggable Intrusion Recovery for Web Applications IEEE Transactions on Dependable&hellip;
@@ -227,7 +227,7 @@
                 <h2>Journal papers</h2>
 <ul>
 <li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>MIRES: Intrusion Recovery for Application based on Backend-as-a-Service<br></strong>IEEE Transactions on Cloud Computing (TCC), 2022<strong><br></strong><a href="https://davidmatos.github.io/media/files/MIRES_Journal_Paper.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
+<li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/IEEE_TDSC_Sanare_Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 </ul>
 <h2>Conference papers</h2>
 <ul>
