@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-01-03T16:57:38+00:00</updated>
+    <updated>2023-01-04T08:20:14+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -56,7 +56,7 @@
         <link href="https://davidmatos.github.io/publications-2/"/>
         <id>https://davidmatos.github.io/publications-2/</id>
 
-        <updated>2022-12-06T15:03:00+00:00</updated>
+        <updated>2023-01-04T08:20:14+00:00</updated>
             <summary>
                 <![CDATA[
                     Bio I am an Invited Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID, and a member of the BIG ERA Chair Team. I have a BSc and a MSc in Informatics Engineering from Faculdade&hellip;
@@ -72,9 +72,9 @@
 <h2>Selected Publications</h2>
 <ul>
 <li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications</strong>. <br>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
-<li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
-<li>David Matos, Miguel Correia<br><strong>NoSQL Undo: Recovering NoSQL Databases by Undoing Operations<br></strong>In <i>Proceedings of the 15th IEEE International Symposium on Network Computing and Applications (NCA),</i> Nov. 2016<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/nosql-undo-recovering.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/NoSQL-Undo">📦Code</a></li>
+<li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018<br><a href="https://davidmatos.github.io/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
+<li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017<br><a href="https://davidmatos.github.io/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
+<li>David Matos, Miguel Correia<br><strong>NoSQL Undo: Recovering NoSQL Databases by Undoing Operations<br></strong>In <i>Proceedings of the 15th IEEE International Symposium on Network Computing and Applications (NCA),</i> Nov. 2016<br><a href="https://davidmatos.github.io/media/files/nosql-undo-recovering.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/NoSQL-Undo">📦Code</a></li>
 </ul>
 <p class="align-center"><strong><em><a href="https://davidmatos.github.io/publications/">View all</a></em></strong></p>
 <p> </p>
