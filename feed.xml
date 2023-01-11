@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-01-04T08:40:02+00:00</updated>
+    <updated>2023-01-11T08:29:15+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://davidmatos.github.io/students/"/>
         <id>https://davidmatos.github.io/students/</id>
 
-        <updated>2022-12-06T15:01:27+00:00</updated>
+        <updated>2023-01-11T08:29:15+00:00</updated>
             <summary>
                 <![CDATA[
                     Current PhD Diogo Vaz - Co-advisors: Miguel Pupo Correia, Miguel L. Pardal Using machine learning techniques to solve distributed problems MSc Francisco Faria Co-advisor: Miguel L. Pardal Unchain my Block: a recovery system for blockchain applications Bruno Gomes Co-advisor: Miguel L. Pardal Show me the&hellip;
@@ -36,6 +36,8 @@
 <li><strong>Bruno Gomes</strong><br>Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>Show me the Crypto: a blockchain crowdfunding platform </li>
 <li><strong>Rodrigo Gomes</strong><br>Co-advisor: Kevin Gallagher<br>A blockchain platform to manage data access for GDPR</li>
 <li><strong>Gonçalo Carreira<br></strong>Co-advisor: Cathy Mulligan<br>6G Swarm Networks</li>
+<li><strong>Guilherme Gaspar<br></strong>Co-advisor: Kevin Gallagher<br><span dir="ltr" role="presentation">Studying Common Attacks Against Smart </span><span dir="ltr" role="presentation">Contracts</span></li>
+<li><strong>Tiago Fournigault<br></strong>Co-advisor: Kevin Gallagher<br>Decentralizing Deliberation for DAOs</li>
 </ul>
 <hr>
 <h1>Past</h1>
