@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-01-11T08:29:15+00:00</updated>
+    <updated>2023-02-17T16:28:28+00:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://davidmatos.github.io/students/"/>
         <id>https://davidmatos.github.io/students/</id>
 
-        <updated>2023-01-11T08:29:15+00:00</updated>
+        <updated>2023-02-17T16:28:28+00:00</updated>
             <summary>
                 <![CDATA[
                     Current PhD Diogo Vaz - Co-advisors: Miguel Pupo Correia, Miguel L. Pardal Using machine learning techniques to solve distributed problems MSc Francisco Faria Co-advisor: Miguel L. Pardal Unchain my Block: a recovery system for blockchain applications Bruno Gomes Co-advisor: Miguel L. Pardal Show me the&hellip;
@@ -38,12 +38,17 @@
 <li><strong>Gonçalo Carreira<br></strong>Co-advisor: Cathy Mulligan<br>6G Swarm Networks</li>
 <li><strong>Guilherme Gaspar<br></strong>Co-advisor: Kevin Gallagher<br><span dir="ltr" role="presentation">Studying Common Attacks Against Smart </span><span dir="ltr" role="presentation">Contracts</span></li>
 <li><strong>Tiago Fournigault<br></strong>Co-advisor: Kevin Gallagher<br>Decentralizing Deliberation for DAOs</li>
+<li><strong>Sebastian de Oca<br></strong>Co-advisors: Kevin Gallagher / Santiago Torres Arias<br>Developing a Threat Modeling Protocol for Horizontal Organizations</li>
+<li><strong>João Francisco Duarte da Silva<br></strong>Co-advisor: Kevin Gallagher<br>Siphon: Towards removing ineficiente gas patterns from Smart Contracts</li>
+<li><strong>Larissa Tomaz<br></strong>Co-adviror: Teresa Almeida<br>Prototyping Blockchain Futures: Keeping Intimate Data Private with NFTs</li>
+<li><strong>Gustavo Pinto<br></strong>Co-advisor: Mariana Pestana<br>Decentralised Governance Model for Tagus River Constituencies</li>
+<li><strong>Bruno Sena<br></strong>Co-advidor: Nuno Nunes<br>Dialogus: a decentralized platform for community dialogue</li>
 </ul>
 <hr>
 <h1>Past</h1>
 <h3>MSc</h3>
 <ul>
-<li><strong>João Soares</strong><br>Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>MACHET3, a new multi-path communication solution using secret sharing</li>
+<li><strong>João Soares - 2022</strong><br>Co-advisor: <a href="http://web.tecnico.ulisboa.pt/miguel.pardal/www/index.html" target="_blank" rel="noopener noreferrer">Miguel L. Pardal</a><br>MACHET3, a new multi-path communication solution using secret sharing</li>
 </ul>
 <p> </p>
 <p> </p>
