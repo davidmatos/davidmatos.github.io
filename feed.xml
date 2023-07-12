@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-07-12T14:53:49+01:00</updated>
+    <updated>2023-07-12T16:00:08+01:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -224,7 +224,7 @@
         <link href="https://davidmatos.github.io/publications/"/>
         <id>https://davidmatos.github.io/publications/</id>
 
-        <updated>2023-07-12T14:53:23+01:00</updated>
+        <updated>2023-07-12T16:00:08+01:00</updated>
             <summary>
                 <![CDATA[
                     Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning IEEE Access, 2023 📄PDF Ricardo Moura, Ricardo Lopes, David R. Matos, Miguel L. Pardal, Miguel Correia MultiTLS: using multiple and diverse ciphers for stronger&hellip;
@@ -235,7 +235,7 @@
                 <h2>Journal papers</h2>
 <ul>
 <li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning<br></strong>IEEE Access, 2023<br><a href="https://davidmatos.github.io/Synthesis_of_Fault-Tolerant_Reliable_Broadcast_Algorithms_With_Reinforcement_Learning.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
-<li>Ricardo Moura, Ricardo Lopes, David R. Matos, Miguel L. Pardal, Miguel Correia<br>MultiTLS: using multiple and diverse ciphers for stronger secure channels<br><a href="https://davidmatos.github.io/1-s2.0-S0167404823002523-main.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> </li>
+<li>Ricardo Moura, Ricardo Lopes, David R. Matos, Miguel L. Pardal, Miguel Correia<br>MultiTLS: using multiple and diverse ciphers for stronger secure channels<br>Computers &amp; Security, Volume 132, September 2023.<br><a href="https://davidmatos.github.io/1-s2.0-S0167404823002523-main.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> </li>
 <li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>MIRES: Intrusion Recovery for Application based on Backend-as-a-Service<br></strong>IEEE Transactions on Cloud Computing (TCC), 2022<strong><br></strong><a href="https://davidmatos.github.io/media/files/MIRES_Journal_Paper.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/IEEE_TDSC_Sanare_Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 </ul>
