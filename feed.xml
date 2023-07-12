@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-02-24T09:50:20+00:00</updated>
+    <updated>2023-07-12T14:53:49+01:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -63,7 +63,7 @@
         <link href="https://davidmatos.github.io/publications-2/"/>
         <id>https://davidmatos.github.io/publications-2/</id>
 
-        <updated>2023-01-04T08:20:14+00:00</updated>
+        <updated>2023-07-12T14:53:49+01:00</updated>
             <summary>
                 <![CDATA[
                     Bio I am an Invited Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID, and a member of the BIG ERA Chair Team. I have a BSc and a MSc in Informatics Engineering from Faculdade&hellip;
@@ -78,6 +78,7 @@
 <p>My research interests are related to distributed systems, cybersecurity, and cloud. More specifically, I have been researching novel intrusion recovery methods for applications and systems running in the cloud environment. </p>
 <h2>Selected Publications</h2>
 <ul>
+<li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning<br></strong>IEEE Access, 2023<br><a href="https://davidmatos.github.io/Synthesis_of_Fault-Tolerant_Reliable_Broadcast_Algorithms_With_Reinforcement_Learning.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications</strong>. <br>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://davidmatos.github.io/media/files/Sanare__Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>David Matos, Miguel Pardal, Georg Carle, and Miguel Correia<br><strong>RockFS: Cloud-backed File System Resilience to Client-Side Attacks<br></strong>In <i>Proceedings of the 2018 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2018<br><a href="https://davidmatos.github.io/media/files/RockFS.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/RockFS">📦Code</a> 𐄁 <a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/RockFS-Middleware18.pdf">Slides</a> 𐄁 <a href="https://videos-rennes.inria.fr/video/rkZ8QvpUE" target="_blank" rel="noopener noreferrer">Video</a></li>
 <li>David Matos, Miguel Pardal, and Miguel Correia<br><strong>Rectify: Black-Box Intrusion Recovery in PaaS Clouds<br></strong>In <i>Proceedings of the 2017 ACM/IFIP/USENIX International Middleware Conference,</i> Dec. 2017<br><a href="https://davidmatos.github.io/media/files/rectify_black_box.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> 𐄁 <a href="https://github.com/davidmatos/Rectify">📦Code</a></li>
@@ -223,16 +224,18 @@
         <link href="https://davidmatos.github.io/publications/"/>
         <id>https://davidmatos.github.io/publications/</id>
 
-        <updated>2023-01-04T08:40:02+00:00</updated>
+        <updated>2023-07-12T14:53:23+01:00</updated>
             <summary>
                 <![CDATA[
-                    Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia MIRES: Intrusion Recovery for Application based on Backend-as-a-Service IEEE Transactions on Cloud Computing (TCC), 2022 📄PDF David Matos, Miguel Pardal, Miguel Correia Sanare: Pluggable Intrusion Recovery for Web Applications IEEE Transactions on Dependable&hellip;
+                    Journal papers Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning IEEE Access, 2023 📄PDF Ricardo Moura, Ricardo Lopes, David R. Matos, Miguel L. Pardal, Miguel Correia MultiTLS: using multiple and diverse ciphers for stronger&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Journal papers</h2>
 <ul>
+<li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>Synthesis of Fault-Tolerant Reliable Broadcast Algorithms With Reinforcement Learning<br></strong>IEEE Access, 2023<br><a href="https://davidmatos.github.io/Synthesis_of_Fault-Tolerant_Reliable_Broadcast_Algorithms_With_Reinforcement_Learning.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
+<li>Ricardo Moura, Ricardo Lopes, David R. Matos, Miguel L. Pardal, Miguel Correia<br>MultiTLS: using multiple and diverse ciphers for stronger secure channels<br><a href="https://davidmatos.github.io/1-s2.0-S0167404823002523-main.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a> </li>
 <li>Diogo Vaz, David R. Matos, Miguel L. Pardal, Miguel Correia<br><strong>MIRES: Intrusion Recovery for Application based on Backend-as-a-Service<br></strong>IEEE Transactions on Cloud Computing (TCC), 2022<strong><br></strong><a href="https://davidmatos.github.io/media/files/MIRES_Journal_Paper.pdf" target="_blank" rel="noopener noreferrer">📄PDF</a></li>
 <li>David Matos, Miguel Pardal, Miguel Correia<br><strong>Sanare: Pluggable Intrusion Recovery for Web Applications<br></strong>IEEE Transactions on Dependable and Secure Computing (TDSC), 2021<br><a href="https://www.gsd.inesc-id.pt/~dmatos/media/files/MultiTLS.pdf" target="_blank" rel="noopener noreferrer">📄</a><a href="https://davidmatos.github.io/IEEE_TDSC_Sanare_Pluggable_Intrusion_Recovery_for_Web_Applications.pdf" target="_blank" rel="noopener noreferrer">PDF</a></li>
 </ul>
