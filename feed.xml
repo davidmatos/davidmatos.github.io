@@ -3,7 +3,7 @@
     <title>David R. Matos</title>
     <link href="https://davidmatos.github.io/feed.xml" rel="self" />
     <link href="https://davidmatos.github.io" />
-    <updated>2023-07-27T18:24:01+01:00</updated>
+    <updated>2023-08-11T20:05:57+01:00</updated>
     <author>
         <name>David R. Matos</name>
     </author>
@@ -64,16 +64,16 @@
         <link href="https://davidmatos.github.io/publications-2/"/>
         <id>https://davidmatos.github.io/publications-2/</id>
 
-        <updated>2023-07-27T18:17:45+01:00</updated>
+        <updated>2023-08-11T20:05:57+01:00</updated>
             <summary>
                 <![CDATA[
-                    Bio I am an Invited Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID, and a member of the BIG ERA Chair Team. I have a BSc and a MSc in Informatics Engineering from Faculdade&hellip;
+                    Bio I am an Assistant Professor at Instituto Superior Técnico - Universidade de Lisboa, researcher at the Distributed Systems Group (GSD) of INESC-ID, and a member of the BIG ERA Chair Team. I have a BSc and a MSc in Informatics Engineering from Faculdade de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2>Bio</h2>
-<figure class="post__image post__image--left"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/8/IMG_2969.jpeg" alt="" width="300" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-xs.jpeg 300w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-sm.jpeg 480w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-md.jpeg 768w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-lg.jpeg 1024w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-xl.jpeg 1360w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-2xl.jpeg 1600w"></figure>I am an Invited Assistant Professor at <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a> - <a href="https://www.ulisboa.pt" target="_blank" rel="noopener noreferrer">Universidade de Lisboa</a>, researcher at the <a href="https://www.gsd.inesc-id.pt" target="_blank" rel="noopener noreferrer">Distributed Systems Group</a> (GSD) of <a href="https://inesc-id.pt" target="_blank" rel="noopener noreferrer">INESC-ID, </a>and a member of the <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a> Team. </p>
+<figure class="post__image post__image--left"><img loading="lazy"  src="https://davidmatos.github.io/media/posts/8/IMG_2969.jpeg" alt="" width="300" height="400" sizes="(max-width: 48em) 100vw, 768px" srcset="https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-xs.jpeg 300w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-sm.jpeg 480w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-md.jpeg 768w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-lg.jpeg 1024w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-xl.jpeg 1360w ,https://davidmatos.github.io/media/posts/8/responsive/IMG_2969-2xl.jpeg 1600w"></figure>I am an Assistant Professor at <a href="https://tecnico.ulisboa.pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a> - <a href="https://www.ulisboa.pt" target="_blank" rel="noopener noreferrer">Universidade de Lisboa</a>, researcher at the <a href="https://www.gsd.inesc-id.pt" target="_blank" rel="noopener noreferrer">Distributed Systems Group</a> (GSD) of <a href="https://inesc-id.pt" target="_blank" rel="noopener noreferrer">INESC-ID, </a>and a member of the <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a> Team. </p>
 <p>I have a BSc and a MSc in Informatics Engineering from <a href="https://ciencias.ulisboa.pt" target="_blank" rel="noopener noreferrer">Faculdade de Ciências da Universidade de Lisboa</a> and a PhD in Computer Sciences and Engineering from <a href="https://tecnico.ulisboa.pt/pt/" target="_blank" rel="noopener noreferrer">Instituto Superior Técnico</a>. </p>
 <p>As a researcher, I participated in the following projects: PATI, SITAN, <a href="https://www.safecloud-project.eu" target="_blank" rel="noopener noreferrer">SafeCloud,</a> <a href="http://seal.lasige.di.fc.ul.pt" target="_blank" rel="noopener noreferrer">SEAL,</a> and <a href="https://bigerachair.tecnico.ulisboa.pt" target="_blank" rel="noopener noreferrer">BIG ERA Chair</a>.</p>
 <p>My research interests are related to distributed systems, cybersecurity, and cloud. More specifically, I have been researching novel intrusion recovery methods for applications and systems running in the cloud environment. </p>
